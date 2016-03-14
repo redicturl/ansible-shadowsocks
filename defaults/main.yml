@@ -1,6 +1,6 @@
 ---
 shadowsocks_home: "/etc/shadowsocks"
-shadowsocks_password: "apn!proxy!ss!ftw!"
+shadowsocks_password: "apn!proxy!"
 
 shadowsocks_config_server_port: "443"
 shadowsocks_config_local_port: "3333"
